@@ -43,4 +43,4 @@ bot.on('ready', () => {
     bot.user.setActivity(`users`, {type: "WATCHING"});
 });
 
-bot.login("NDU2MDE4MjUyMTU4NzMwMjUw.DiTnxA.XgPbuphLV2syvKZIO-ePImZoyi0");
+bot.login("process.env.TOKEN ");
